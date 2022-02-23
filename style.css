@@ -1,0 +1,13 @@
+body {
+  background-color: #f0f3f8;
+  text-decoration: underline;
+}
+
+.container {
+  padding-top: 7.5rem;
+  max-width: 800px;
+  max-height: 800px;
+  background-color: #74a1f0;
+
+}
+
