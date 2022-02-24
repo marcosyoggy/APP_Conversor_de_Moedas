@@ -55,4 +55,3 @@ input_Currencies.addEventListener('input', () => {
 })
 
 display_Conversion_Precision(get_Element_Value(select_One))
-
